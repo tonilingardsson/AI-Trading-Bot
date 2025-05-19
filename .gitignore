@@ -1,1 +1,16 @@
+# Ignore MLTrader generated files
+MLTrader_*
+
+# Python virtual environment
+.venv/
+venv/
+
+# Environment variables
 .env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints
